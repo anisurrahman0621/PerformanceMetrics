@@ -10,7 +10,7 @@ Actasys Inc. creates devices that clean sensors in adverse weather conditions. D
 3. Move the folders to the same directory as the jupyter notebook file
 4. Each Excel file should only be one level away from the jupyter notebook files (i.e. "Output Edge.xlsx" file should appear right after opening "1st Trial" directory)
 5. Run the jupyter notebook file
-6. An Excel file with all the relevant parameters will be created in the same directory as the jupyter notebook file. Each case will hav its own sheet. 
+6. An Excel file with all the relevant parameters will be created in the same directory as the jupyter notebook file. Each case will have its own sheet. 
 
 ## Methodology  
     
