@@ -8,7 +8,7 @@ Actasys Inc. creates devices that clean sensors in adverse weather conditions. D
 1. Download the Jupyter Notebook file (extension ".ipynb") and place in a directory.
 2. Navigate to the AnalaysisFolders tab and download each of the folders named "... trial".
 3. Move the folders to the same directory as the jupyter notebook file.
-4. Each Excel file should only be one level away from the jupyter notebook files (i.e. "Output Edge.xlsx" file should appear right after opening "1st Trial" directory).
+4. Each Excel file should only be one level away from the Jupyter Notebook file (i.e. "Output Edge.xlsx" file should appear right after opening "1st Trial" directory).
 5. Run the Jupyter Notebook file.
 6. After the script is executed, an Excel file named "Seperated Cleanign Results.xlsx" with all the relevant parameters will be created in the same directory as the jupyter notebook file. Each case will have its own sheet. 
 
